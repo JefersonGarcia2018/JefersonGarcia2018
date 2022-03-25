@@ -1,5 +1,5 @@
-# Email para contato:
-### jefergarcia2013@gmail.com
+<h1>Email para contato:</h1>
+jefergarcia2013@gmail.com
 ##
 # Conhecimentos em:
 <div style="display: inline_block"><br>
